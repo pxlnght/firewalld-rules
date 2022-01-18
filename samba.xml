@@ -1,0 +1,9 @@
+<service>
+  <short>samba</short>
+  <description>ports required to share samba</description>
+  <port protocol="udp" port="137"/>
+  <port protocol="udp" port="138"/>
+  <port protocol="tcp" port="139"/>
+  <port protocol="tcp" port="445"/>
+  <port protocol="udp" port="445"/>
+</service>

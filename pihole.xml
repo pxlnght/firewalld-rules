@@ -1,0 +1,8 @@
+<service>
+  <short>pihole</short>
+  <description>pihole</description>
+  <port protocol="tcp" port="53"/>
+  <port protocol="udp" port="53"/>
+  <port protocol="udp" port="67"/>
+  <port protocol="tcp" port="420"/>
+</service>
