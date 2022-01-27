@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service version="1.0">
+<short>ombi</short>
+<description>Ombi</description>
+<port port="3579" protocol="udp"/>
+<port port="3579" protocol="tcp"/>
+</service>
