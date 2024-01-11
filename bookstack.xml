@@ -1,0 +1,5 @@
+<service>
+  <short>bookstack</short>
+  <description>bookstack docs</description>
+  <port protocol="tcp" port="6875"/>
+</service>
