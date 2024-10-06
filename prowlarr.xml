@@ -1,0 +1,5 @@
+<service>
+  <short>prowlarr</short>
+  <description>prowlarr</description>
+  <port protocol="tcp" port="9696"/>
+</service>
