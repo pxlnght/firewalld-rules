@@ -1,0 +1,5 @@
+<service>
+  <short>Homeassistant</short>
+  <description>Homeassistant</description>
+  <port protocol="tcp" port="8123"/>
+</service>

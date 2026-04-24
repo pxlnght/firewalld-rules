@@ -1,0 +1,6 @@
+<service>
+  <short>immich</short>
+  <description>immich</description>
+  <port protocol="tcp" port="2283"/>
+  <port protocol="tcp" port="2283"/>
+</service>

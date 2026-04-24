@@ -1,0 +1,6 @@
+<service>
+  <short>skyrimtogether</short>
+  <description>Skyrim Together</description>
+  <port protocol="udp" port="10578"/>
+  <port protocol="tcp" port="10578"/>
+</service>
