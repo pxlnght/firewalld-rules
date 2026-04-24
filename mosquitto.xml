@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service version="1.0">
+<short>mosquitto</short>
+<description>mosquitto</description>
+<port port="1883" protocol="udp"/>
+<port port="1883" protocol="tcp"/>
+</service>
